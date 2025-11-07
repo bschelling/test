@@ -54,4 +54,6 @@ cover/
 
 # Workbench Project Layout
 data/scratch/*
-!data/scratch/.gitkeep
+!data/scratch/.gitkeep/project/data/rhomberg_final/
+data/rhomberg_final/
+models/*.pth
