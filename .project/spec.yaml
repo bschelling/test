@@ -120,3 +120,7 @@ execution:
           target: /data/tensorboard/logs/
           description: Tensorboard Log Files
           options: volumeName=tensorboard-logs-volume
+        - type: host
+          target: /mnt/img/
+          description: ""
+          options: ""
