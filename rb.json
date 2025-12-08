@@ -1,0 +1,98 @@
+[
+    {
+        "event_name": "page_view",
+        "event_count": "1471666",
+        "unique_users": "91600",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "scroll",
+        "event_count": "1383235",
+        "unique_users": "88280",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "view_item_list",
+        "event_count": "920395",
+        "unique_users": "55319",
+        "events_with_items": "814141"
+    },
+    {
+        "event_name": "session_start",
+        "event_count": "559966",
+        "unique_users": "91377",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "first_visit",
+        "event_count": "485546",
+        "unique_users": "80754",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "view_item",
+        "event_count": "375343",
+        "unique_users": "59430",
+        "events_with_items": "375343"
+    },
+    {
+        "event_name": "user_engagement",
+        "event_count": "66506",
+        "unique_users": "64215",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "view_cart",
+        "event_count": "30201",
+        "unique_users": "7634",
+        "events_with_items": "30201"
+    },
+    {
+        "event_name": "add_to_cart",
+        "event_count": "28823",
+        "unique_users": "9568",
+        "events_with_items": "28823"
+    },
+    {
+        "event_name": "begin_checkout",
+        "event_count": "11198",
+        "unique_users": "6302",
+        "events_with_items": "11191"
+    },
+    {
+        "event_name": "checkout_shipping_info_submitted",
+        "event_count": "7225",
+        "unique_users": "4632",
+        "events_with_items": "0"
+    },
+    {
+        "event_name": "add_payment_info",
+        "event_count": "6613",
+        "unique_users": "4789",
+        "events_with_items": "6613"
+    },
+    {
+        "event_name": "purchase",
+        "event_count": "6469",
+        "unique_users": "5145",
+        "events_with_items": "6469"
+    },
+    {
+        "event_name": "remove_from_cart",
+        "event_count": "6204",
+        "unique_users": "2849",
+        "events_with_items": "6204"
+    },
+    {
+        "event_name": "add_shipping_info",
+        "event_count": "5764",
+        "unique_users": "4487",
+        "events_with_items": "5764"
+    },
+    {
+        "event_name": "checkout_contact_info_submitted",
+        "event_count": "5545",
+        "unique_users": "4448",
+        "events_with_items": "0"
+    }
+]
